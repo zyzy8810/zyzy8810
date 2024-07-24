@@ -39,13 +39,6 @@ Welcome to my GitHub profile! I'm glad you're here.
 
 ---
 
-### Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
 ### Fun Facts
 
 - 🎮 I enjoy playing video games in my free time.
